@@ -60,8 +60,8 @@ export function Impact() {
             <p className="text-stone-700">Average yield increase</p>
           </div>
           <div className="bg-white p-6 rounded-xl shadow-lg text-center">
-            <p className="text-4xl font-bold text-emerald-600 mb-2">2000</p>
-            <p className="text-stone-700">Hectares regenerated</p>
+            <p className="text-4xl font-bold text-emerald-600 mb-2">50</p>
+            <p className="text-stone-700">Million BDT+ Profit</p>
           </div>
         </div>
 
