@@ -46,7 +46,7 @@ export function MarketOpportunity() {
                 <div>
                   <h3 className="text-xl text-stone-900 mb-2">Total Addressable Market</h3>
                   <p className="text-stone-600 mb-2">$1.2 billion global bio-fertilizer and soil conditioner market</p>
-                  <p className="text-sm text-emerald-700">Growing at 11% CAGR through 2030</p>
+                  
                 </div>
               </div>
             </div>
