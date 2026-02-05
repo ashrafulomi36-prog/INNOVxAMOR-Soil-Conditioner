@@ -32,7 +32,7 @@ export function WhyKeragreen() {
 
       <div className="relative z-10 max-w-7xl mx-auto px-6">
         <div className="text-center mb-16">
-          <h2 className="text-4xl md:text-5xl text-white mb-4">Why INNOVxAMOR Wins</h2>
+          <h2 className="text-4xl md:text-5xl text-white mb-4">Why We Win</h2>
           <div className="w-20 h-1 bg-amber-400 mx-auto mb-6"></div>
           <p className="text-xl text-emerald-100 max-w-2xl mx-auto">
             Our competitive advantages create lasting market dominance
