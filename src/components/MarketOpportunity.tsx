@@ -24,9 +24,9 @@ export function MarketOpportunity() {
               
               {/* SAM - Middle circle */}
               <circle cx="200" cy="200" r="120" fill="#a7f3d0" stroke="#059669" strokeWidth="2" />
-              <text x="200" y="130" textAnchor="middle" className="text-sm fill-emerald-800 font-semibold">SAM</text>
-              <text x="200" y="140" textAnchor="middle" className="text-xs fill-emerald-700">$8B</text>
-              <text x="200" y="150" textAnchor="middle" className="text-xs fill-emerald-600">Regional Organic</text>
+              <text x="200" y="110" textAnchor="middle" className="text-sm fill-emerald-800 font-semibold">SAM</text>
+              <text x="200" y="120" textAnchor="middle" className="text-xs fill-emerald-700">$8B</text>
+              <text x="200" y="130" textAnchor="middle" className="text-xs fill-emerald-600">Regional Organic</text>
               
               {/* SOM - Inner circle */}
               <circle cx="200" cy="200" r="60" fill="#34d399" stroke="#047857" strokeWidth="2" />
