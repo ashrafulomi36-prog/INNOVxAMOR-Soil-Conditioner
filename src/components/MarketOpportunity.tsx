@@ -45,7 +45,7 @@ export function MarketOpportunity() {
                 </div>
                 <div>
                   <h3 className="text-xl text-stone-900 mb-2">Total Addressable Market</h3>
-                  <p className="text-stone-600 mb-2">$45 billion global bio-fertilizer and soil conditioner market</p>
+                  <p className="text-stone-600 mb-2">$1.2 billion global bio-fertilizer and soil conditioner market</p>
                   <p className="text-sm text-emerald-700">Growing at 11% CAGR through 2030</p>
                 </div>
               </div>
@@ -58,8 +58,8 @@ export function MarketOpportunity() {
                 </div>
                 <div>
                   <h3 className="text-xl text-stone-900 mb-2">Serviceable Addressable Market</h3>
-                  <p className="text-stone-600 mb-2">$8 billion regional organic agriculture sector</p>
-                  <p className="text-sm text-emerald-700">Focus on emerging markets with high adoption rates</p>
+                  <p className="text-stone-600 mb-2">$150 million regional organic agriculture sector</p>
+                  <p className="text-sm text-emerald-700">Growing at 15% Anually</p>
                 </div>
               </div>
             </div>
@@ -71,7 +71,7 @@ export function MarketOpportunity() {
                 </div>
                 <div>
                   <h3 className="text-xl text-stone-900 mb-2">Serviceable Obtainable Market</h3>
-                  <p className="text-stone-600 mb-2">$500 million initial target segment</p>
+                  <p className="text-stone-600 mb-2">50 million BDT initial target segment</p>
                   <p className="text-sm text-emerald-700">Smallholder farmers in pilot regions (3-5 years)</p>
                 </div>
               </div>
