@@ -30,9 +30,9 @@ export function MarketOpportunity() {
               
               {/* SOM - Inner circle */}
               <circle cx="200" cy="322.5" r="60" fill="#34d399" stroke="#047857" strokeWidth="2" />
-              <text x="200" y="200" textAnchor="middle" className="text-sm fill-white font-semibold">SOM</text>
-              <text x="200" y="210" textAnchor="middle" className="text-xs fill-white">50M BDT</text>
-              <text x="200" y="220" textAnchor="middle" className="text-xs fill-emerald-50">Initial Target</text>
+              <text x="200" y="400" textAnchor="middle" className="text-sm fill-white font-semibold">SOM</text>
+              <text x="200" y="410" textAnchor="middle" className="text-xs fill-white">50M BDT</text>
+              <text x="200" y="420" textAnchor="middle" className="text-xs fill-emerald-50">Initial Target</text>
             </svg>
           </div>
 
