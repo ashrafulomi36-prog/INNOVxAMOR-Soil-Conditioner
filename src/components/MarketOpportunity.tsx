@@ -18,9 +18,9 @@ export function MarketOpportunity() {
             <svg viewBox="0 0 400 400" className="w-full max-w-md mx-auto">
               {/* TAM - Outer circle */}
               <circle cx="200" cy="200" r="180" fill="#d1fae5" stroke="#10b981" strokeWidth="2" />
-              <text x="200" y="150" textAnchor="middle" className="text-sm fill-emerald-800 font-semibold">TAM</text>
-              <text x="200" y="160" textAnchor="middle" className="text-xs fill-emerald-700">$1.2B</text>
-              <text x="200" y="170" textAnchor="middle" className="text-xs fill-emerald-600">Global Bio-fertilizer</text>
+              <text x="200" y="110" textAnchor="middle" className="text-sm fill-emerald-800 font-semibold">TAM</text>
+              <text x="200" y="120" textAnchor="middle" className="text-xs fill-emerald-700">$1.2B</text>
+              <text x="200" y="130" textAnchor="middle" className="text-xs fill-emerald-600">Global Bio-fertilizer</text>
               
               {/* SAM - Middle circle */}
               <circle cx="200" cy="262.5" r="120" fill="#a7f3d0" stroke="#059669" strokeWidth="2" />
