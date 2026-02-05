@@ -18,21 +18,21 @@ export function MarketOpportunity() {
             <svg viewBox="0 0 400 400" className="w-full max-w-md mx-auto">
               {/* TAM - Outer circle */}
               <circle cx="200" cy="200" r="180" fill="#d1fae5" stroke="#10b981" strokeWidth="2" />
-              <text x="200" y="80" textAnchor="middle" className="text-sm fill-emerald-800 font-semibold">TAM</text>
-              <text x="200" y="100" textAnchor="middle" className="text-xs fill-emerald-700">$45B</text>
-              <text x="200" y="115" textAnchor="middle" className="text-xs fill-emerald-600">Global Bio-fertilizer</text>
+              <text x="200" y="60" textAnchor="middle" className="text-sm fill-emerald-800 font-semibold">TAM</text>
+              <text x="200" y="70" textAnchor="middle" className="text-xs fill-emerald-700">$45B</text>
+              <text x="200" y="80" textAnchor="middle" className="text-xs fill-emerald-600">Global Bio-fertilizer</text>
               
               {/* SAM - Middle circle */}
               <circle cx="200" cy="200" r="120" fill="#a7f3d0" stroke="#059669" strokeWidth="2" />
               <text x="200" y="160" textAnchor="middle" className="text-sm fill-emerald-800 font-semibold">SAM</text>
-              <text x="200" y="180" textAnchor="middle" className="text-xs fill-emerald-700">$8B</text>
-              <text x="200" y="195" textAnchor="middle" className="text-xs fill-emerald-600">Regional Organic</text>
+              <text x="200" y="170" textAnchor="middle" className="text-xs fill-emerald-700">$8B</text>
+              <text x="200" y="160" textAnchor="middle" className="text-xs fill-emerald-600">Regional Organic</text>
               
               {/* SOM - Inner circle */}
               <circle cx="200" cy="200" r="60" fill="#34d399" stroke="#047857" strokeWidth="2" />
-              <text x="200" y="245" textAnchor="middle" className="text-sm fill-white font-semibold">SOM</text>
-              <text x="200" y="265" textAnchor="middle" className="text-xs fill-white">$500M</text>
-              <text x="200" y="280" textAnchor="middle" className="text-xs fill-emerald-50">Initial Target</text>
+              <text x="200" y="210" textAnchor="middle" className="text-sm fill-white font-semibold">SOM</text>
+              <text x="200" y="220" textAnchor="middle" className="text-xs fill-white">$500M</text>
+              <text x="200" y="230" textAnchor="middle" className="text-xs fill-emerald-50">Initial Target</text>
             </svg>
           </div>
 
