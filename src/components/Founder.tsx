@@ -42,19 +42,8 @@ export function Founder() {
             </div>
           </div>
                {/* Additional context */}
-          <div className="mt-8 grid md:grid-cols-3 gap-6 text-center">
-            <div className="bg-white/5 backdrop-blur-sm p-6 rounded-xl border border-white/10">
-              <p className="text-3xl font-bold text-emerald-400 mb-2">10+</p>
-              <p className="text-white/80">Years farming background</p>
-            </div>
-            <div className="bg-white/5 backdrop-blur-sm p-6 rounded-xl border border-white/10">
-              <p className="text-3xl font-bold text-emerald-400 mb-2">3</p>
-              <p className="text-white/80">Agricultural awards</p>
-            </div>
-            <div className="bg-white/5 backdrop-blur-sm p-6 rounded-xl border border-white/10">
-              <p className="text-3xl font-bold text-emerald-400 mb-2">100%</p>
-              <p className="text-white/80">Community-driven</p>
-            </div>
+         <div className="mt-8 grid md:grid-cols-3 gap-6 text-center"> 
+           
        
           </div>
         </div>
