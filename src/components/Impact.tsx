@@ -95,7 +95,7 @@ export function Impact() {
             <Leaf className="w-8 h-8 text-emerald-600" />
           </div>
           <h3 className="text-2xl md:text-3xl text-stone-900 mb-4">
-            By 2030, we aim to regenerate 1 million hectares of farmland
+            By 2030, we aim to Profit 50 million BDT
           </h3>
           <p className="text-lg text-stone-600">
             Sequestering carbon, restoring biodiversity, and empowering communities across the globe
