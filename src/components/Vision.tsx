@@ -46,7 +46,7 @@ export function Vision() {
             </div>
             <h3 className="text-xl text-white mb-3">Global Scale</h3>
             <p className="text-emerald-100">
-              Replicating our model in 50+ countries by 2035
+              Replicating our model globally by 2029
             </p>
           </div>
 
